@@ -5,7 +5,7 @@ LISTA DE FS CONVERTIDORES
 
 
 
-Canales Argentinos
+vence el 25.20.2005
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="FS CONVERTIDORES",FS CONVERTIDORES
 https://api-f.streamable.com/api/v1/videos/pmkx25/mp4
@@ -863,4 +863,5 @@ https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
